@@ -46,7 +46,7 @@ ffmpeg -i %d.jpg name.mp4
 
 ## Result
 
-![a](https://github.com/Ziang-Chen/TrajectoryForecasting/tree/main/model_outputs/model_predict.gif)
+![a](https://imgur.com/7f1656ea-c2bb-499e-96ed-f428151f7e14)
 
 ![b](https://i.imgur.com/ZCBGkLF.gif)
 
