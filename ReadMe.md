@@ -46,7 +46,7 @@ ffmpeg -i %d.jpg name.mp4
 
 ## Result
 
-![](model_outputs/model_predict.gif)
+![a](model_outputs/model_predict.gif)
 
-![](intend_viz/intend.gif)
+![b](intend_viz/intend.gif)
 
