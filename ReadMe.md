@@ -46,7 +46,7 @@ ffmpeg -i %d.jpg name.mp4
 
 ## Result
 
-![a](https://imgur.com/a/ZOgEtoF.gif)
+![a](https://i.imgur.com/vsgpmbu.gif)
 
 ![b](https://i.imgur.com/ZCBGkLF.gif)
 
